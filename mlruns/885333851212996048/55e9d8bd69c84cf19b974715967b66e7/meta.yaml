@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/Gopi.Battineni/OneDrive - University of Limerick/Desktop/FORGE/Synthetic_Data_Evaluation-/mlruns/885333851212996048/55e9d8bd69c84cf19b974715967b66e7/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '885333851212996048'
+lifecycle_stage: active
+run_id: 55e9d8bd69c84cf19b974715967b66e7
+run_name: CTGAN_Breast_Cancer
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1763400233830
+status: 1
+tags: []
+user_id: gopi
